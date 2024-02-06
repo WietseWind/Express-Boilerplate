@@ -2,6 +2,10 @@
 
 ... (See title)
 
+#### Run:
+
+`npm run dev`
+
 #### Ships:
 
 - CORS
